@@ -2,9 +2,9 @@ server:
   port: 8080
 okta:
   oauth2:
-    issuer: https://{yourOktaDomain}/oauth2/default
-    client-id: {yourClientId}
-    client-secret: {yourClientSecret}
+    issuer: https://dev-1663347.okta.com/oauth2/default
+    client-id: 0oa1io77x0jCu1nPg5d7
+    client-secret: YbtGtDuyi6KP1hO1SMkWKzVY2anSX6eBPd34W8tE
 spring:
   thymeleaf:
     cache: false
